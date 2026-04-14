@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HelloWorld.
-       AUTHOR. Yann.
+       AUTHOR. Malayme.
 
        PROCEDURE DIVISION.
 
